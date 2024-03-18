@@ -4,6 +4,8 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import MyTitle from "./components/MyTitle"
 import PokemonCard from "./components/PokemonCard.jsx";
+import "./components/PokemonCard.css";
+
 
 function App() {
     return (
